@@ -63,15 +63,48 @@ Make sure you have installed:
 
 ### ⚙️ Installation
 
-#### 1. Clone the Repository
+#### Step 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/product-review-app.git
 cd product-review-app
 ```
-Step 2: Setup Backend
+#### Step 2: Setup Backend
 ```bash
 cd backend
 npm install
 npm start
 ```
 Server runs at http://localhost:5000
+
+#### Step 3: Setup Frontend
+```bash
+cd ../frontend
+npm install
+npm start
+```
+App will be available at http://localhost:3000
+
+#### ✨ Features
+⭐ Interactive 5-Star Rating System
+
+✍️ Review Submission Form with Validation
+
+📊 Dynamic Average Rating Calculation
+
+👁️ Toggle to Show/Hide User Reviews
+
+📱 Fully Responsive UI (Mobile-friendly)
+
+🧪 Clean Code Structure with React Components
+
+#### 🧪 Testing the App
+Open browser at http://localhost:3000
+
+Choose any product displayed
+
+Select a star rating and/or write a review
+
+Submit the form
+
+Click “View Reviews” to see all reviews for the product
+
