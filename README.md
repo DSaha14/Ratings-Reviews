@@ -67,3 +67,11 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/your-username/product-review-app.git
 cd product-review-app
+```
+Step 2: Setup Backend
+```bash
+cd backend
+npm install
+npm start
+```
+Server runs at http://localhost:5000
