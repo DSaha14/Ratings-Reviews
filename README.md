@@ -84,7 +84,7 @@ npm start
 ```
 App will be available at http://localhost:3000
 
-#### ✨ Features
+## ✨ Features
 ⭐ Interactive 5-Star Rating System
 
 ✍️ Review Submission Form with Validation
@@ -97,7 +97,7 @@ App will be available at http://localhost:3000
 
 🧪 Clean Code Structure with React Components
 
-#### 🧪 Testing the App
+## 🧪 Testing the App
 Open browser at http://localhost:3000
 
 Choose any product displayed
